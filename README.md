@@ -6,3 +6,6 @@
 # 自动清洗戴口罩人脸数据的算法工具  
 实现功能：  
 基于dlib和face_recogition的基础上对人脸数据集实现清洗
+其中需要一些opencv中的人脸检测的一些文件支持，具体如下：  
+*haarcascade_eye.xml*  
+*haarcascade_mcs_mouth.xml*
